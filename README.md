@@ -1,71 +1,57 @@
 # Makko Template
 
 ### Login
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture1.png">
-    <img style="width: 50%" src="./images/Picture2.png">
-</div>
+|  |  |
+|--|--|
+| ![](./images/Picture1.png) | ![](./images/Picture2.png) |
 
 ### Sign up
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture6.png">
-    <img style="width: 50%" src="./images/Picture7.png">
-</div>
-
+|  |  |
+|--|--|
+| ![](./images/Picture6.png) | ![](./images/Picture7.png) |
 
 ### Confirmation Code
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture3.png">
-    <img style="width: 50%" src="./images/Picture4.png">
-</div>
-<img style="width: 100%;" src="./images/Picture5.png">
-
+|  |  |
+|--|--|
+| ![](./images/Picture3.png) | ![](./images/Picture4.png) |
+| ![](./images/Picture5.png) |  |
 
 ### Forgot password
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture9.png">
-    <img style="width: 50%" src="./images/Picture10.png">
-</div>
+|  |  |
+|--|--|
+| ![](./images/Picture9.png) | ![](./images/Picture10.png) |
 
 ### Welcome screen
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture12.png">
-    <img style="width: 50%" src="./images/Picture11.png">
-</div>
-<br>
-<hr>
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture13.png">
-    <img style="width: 50%" src="./images/Picture14.png">
-</div>
+|  |  |
+|--|--|
+| ![](./images/Picture12.png) | ![](./images/Picture11.png) |
+
+---
+|  |  |
+|--|--|
+| ![](./images/Picture13.png) | ![](./images/Picture14.png) |
 
 ### Homepage screen
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture15.png">
-    <img style="width: 50%" src="./images/Picture16.png">
-</div>
+|  |  |
+|--|--|
+| ![](./images/Picture15.png) | ![](./images/Picture16.png) |
 
 ### Uploading post
-<div style="display: flex;">
-    <img style="width: 33.3333%" src="./images/Picture18.png">
-    <img style="width: 33.3333%" src="./images/Picture19.png">
-    <img style="width: 33.3333%" src="./images/Picture20.png">
-</div>
+|  |  |  |
+|--|--|--|
+| ![](./images/Picture18.png) | ![](./images/Picture19.png) | ![](./images/Picture20.png) |
 
-### Comming soon
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture21.png">
-    <img style="width: 50%" src="./images/Picture22.png">
-</div>
+### Coming soon
+|  |  |
+|--|--|
+| ![](./images/Picture21.png) | ![](./images/Picture22.png) |
 
 ### Chat
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture23.png">
-    <img style="width: 50%" src="./images/Picture24.png">
-</div>
+|  |  |
+|--|--|
+| ![](./images/Picture23.png) | ![](./images/Picture24.png) |
 
 ### Profile
-<div style="display: flex;">
-    <img style="width: 50%" src="./images/Picture25.png">
-    <img style="width: 50%" src="./images/Picture26.png">
-</div>
+|  |  |
+|--|--|
+| ![](./images/Picture25.png) | ![](./images/Picture26.png) |
